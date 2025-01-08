@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.b29f5c70.js",
+    "main.js": "/home/static/js/main.ab6541d8.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/Ishlaga.png": "/home/static/media/Ishlaga.d297d54bd7abd49bdb8c.png",
+    "static/media/Ishlaga.png": "/home/static/media/Ishlaga.275eda7865dfa69b9cdd.png",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.b29f5c70.js.map": "/home/static/js/main.b29f5c70.js.map",
+    "main.ab6541d8.js.map": "/home/static/js/main.ab6541d8.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.b29f5c70.js"
+    "static/js/main.ab6541d8.js"
   ]
 }
